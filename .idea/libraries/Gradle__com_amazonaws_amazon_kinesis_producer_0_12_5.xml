@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:amazon-kinesis-producer:0.12.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/amazon-kinesis-producer/0.12.5/9dd9cfe86eaf81573b28456f415abe71e8e7a55e/amazon-kinesis-producer-0.12.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/amazon-kinesis-producer/0.12.5/4d699677530625e4c1dc592d495cf45c92471f9c/amazon-kinesis-producer-0.12.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

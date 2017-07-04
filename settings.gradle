@@ -1,0 +1,5 @@
+rootProject.name = 'poc_aws'
+include 'dynamodb'
+include 'aws_lambda'
+include 'kinesis'
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aws_lambda.iml" filepath="$PROJECT_DIR$/.idea/modules/aws_lambda.iml" group="aws_lambda" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aws_lambda/aws_lambda_main.iml" filepath="$PROJECT_DIR$/.idea/modules/aws_lambda/aws_lambda_main.iml" group="aws_lambda" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aws_lambda/aws_lambda_test.iml" filepath="$PROJECT_DIR$/.idea/modules/aws_lambda/aws_lambda_test.iml" group="aws_lambda" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dynamodb.iml" filepath="$PROJECT_DIR$/.idea/modules/dynamodb.iml" group="dynamodb" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dynamodb/dynamodb_main.iml" filepath="$PROJECT_DIR$/.idea/modules/dynamodb/dynamodb_main.iml" group="dynamodb" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dynamodb/dynamodb_test.iml" filepath="$PROJECT_DIR$/.idea/modules/dynamodb/dynamodb_test.iml" group="dynamodb" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kinesis.iml" filepath="$PROJECT_DIR$/.idea/modules/kinesis.iml" group="kinesis" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kinesis/kinesis_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kinesis/kinesis_main.iml" group="kinesis" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kinesis/kinesis_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kinesis/kinesis_test.iml" group="kinesis" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/poc_aws.iml" filepath="$PROJECT_DIR$/.idea/modules/poc_aws.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/poc_aws_main.iml" filepath="$PROJECT_DIR$/.idea/modules/poc_aws_main.iml" group="poc_aws" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/poc_aws_test.iml" filepath="$PROJECT_DIR$/.idea/modules/poc_aws_test.iml" group="poc_aws" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:amazon-kinesis-client:1.7.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/amazon-kinesis-client/1.7.6/a8d867dfe01e6908ac80eb845bd0fa8edc19322e/amazon-kinesis-client-1.7.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/amazon-kinesis-client/1.7.6/c52f674ea7354b9d6df2c065196bcb5eed845dd1/amazon-kinesis-client-1.7.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
